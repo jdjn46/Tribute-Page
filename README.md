@@ -1,4 +1,4 @@
-# Tribute-Page
+# tribute-page
 Project One
 
-Author- JDJN46
+Author- jdjn46
